@@ -1,0 +1,7 @@
+Material Design
+
+A Material Design skin for Launchy.
+
+Created by Samuel Marchal (http://smarchal.com)
+
+Github source available at https://github.com/zessx/launchy-material

@@ -1,0 +1,96 @@
+#launchy {
+}
+
+#opsButton {
+    border: none;
+    background-color: rgba(255,255,255,0%);
+    qproperty-geometry: rect(430 33 33 33);
+}
+
+#workingAnimation {
+}
+
+#opsButton:pressed {
+}
+
+#input {
+    font: 24px Arial;
+    font-weight: normal;
+    border-width: 0px;
+    background-color: rgba(255,255,255,0%);
+    border-style: solid;
+    color: #424242;
+    qproperty-alignment: AlignLeft;
+    qproperty-geometry: rect(80 20 280 57);
+}
+
+#output {
+    font: 10px Arial;
+    font-weight: normal;
+    color: #BDBDBD;
+    background-color: rgba(255,255,255,0%);
+    border-width: 0px;
+    border-style: solid;
+    qproperty-alignment: AlignLeft;
+    qproperty-geometry: rect(83 62 316 13);
+}
+
+#outputIcon {
+    qproperty-geometry: rect(380 33 34 34);
+}
+
+#alternatives {
+    font: 12px Arial;
+    color: #424242;
+    selection-color: #2196F3;
+    background: white;
+    alternate-background-color: white;
+    selection-background-color: white;
+    border-color: #d3d3d3;
+    border-top-color: white;
+    border-width: 1px;
+    border-style: solid;
+    padding: 16px 0px 0px 16px;
+    qproperty-geometry: rect(19 80 462 60);
+}
+
+#alternatives:item {
+    padding: 16px 16px 16px 16px;
+}
+
+#alternativesPath {
+    font: 10px Arial;
+    padding: 0px 0px 0px 0px;
+    color: #BDBDBD;
+    selection-color: #90CAF9;
+}
+
+QScrollBar#altScroll:vertical {
+    width: 8px;
+    background-color: rgba(255,255,255,0%);
+    margin: 0px 0px 0px 0px;
+}
+
+QScrollBar#altScroll::handle:vertical {
+    background-color: #E0E0E0;
+}
+
+QScrollBar#altScroll::sub-line:vertical {
+    width: 0px;
+    height: 0px;
+}
+
+QScrollBar#altScroll::add-page:vertical {
+    width: 0px;
+    height: 0px;
+}
+
+QScrollBar#altScroll::sub-page:vertical {
+    width: 0px;
+    height: 0px;
+}
+
+QScrollBar#altScroll::add-line:vertical {
+    width: 0px;
+    height: 0px;
+}
