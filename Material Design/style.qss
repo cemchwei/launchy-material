@@ -14,7 +14,7 @@
 }
 
 #input {
-    font: 24px Arial;
+    font: 24px Product Sans;
     font-weight: normal;
     border-width: 0px;
     background-color: rgba(255,255,255,0%);
@@ -25,7 +25,7 @@
 }
 
 #output {
-    font: 10px Arial;
+    font: 10px Product Sans;
     font-weight: normal;
     color: #BDBDBD;
     background-color: rgba(255,255,255,0%);
